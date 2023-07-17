@@ -40,4 +40,5 @@ if __name__ == "__main__":
     # password = "your MySQL password"
     # database = "your MySQL database name"
     # maen = "MySQL数据表名称"
+    # 2023年7月17日更新
     get_data(ipaddress, int(port_in), username, password, database, maen)
