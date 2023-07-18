@@ -1,0 +1,11 @@
+{
+  "mysql_connect":
+  {
+    "ipaddress": "10.106.102.253",
+    "port_in": 3306,
+    "username": "user0",
+    "password": "Admin@123",
+    "database": "test_temp",
+    "mean": "temp"
+  }
+}
